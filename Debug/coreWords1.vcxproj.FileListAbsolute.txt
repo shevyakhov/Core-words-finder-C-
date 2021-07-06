@@ -1,0 +1,2 @@
+C:\Users\Admin\source\repos\coreWords1\Debug\coreWords1.exe
+C:\Users\Admin\source\repos\coreWords1\Debug\coreWords1.pdb
